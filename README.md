@@ -1,6 +1,6 @@
 # Calculadora HTML
 
-Este é um simples projeto de calculadora desenvolvido em HTML, CSS e JavaScript por Bruno Pais.
+Este é um simples projeto de calculadora desenvolvido em HTML, CSS e JavaScript.
 
 ## Visão Geral
 
